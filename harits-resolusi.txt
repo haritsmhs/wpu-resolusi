@@ -1,0 +1,4 @@
+Salam kenal, nama saya harits dari tangerang selatan
+Resolusi saya:
+-Membuat website menggunakan framework javascript
+-Bekerja di Startup
